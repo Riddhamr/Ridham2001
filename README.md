@@ -3,7 +3,7 @@
 <p align='center'>
 I'm Ridham.
 </p>
-<p align='center'>For enquiries, reach out at <a href="mailto:ridhamsuvagiya2001@gmail.com">ridhamsuvagiya2001@gmail.com</a>.</p>
+<p align='center'>For enquiries, reach out at <a href="https://mail.google.com/mail/view=cm&fs=1&to=ridhamsuvagiya2001@gmail.com&su=SUBJECT&body=BODY&bcc=someone.rdxisr@gmail.com">ridhamsuvagiya2001@gmail.com</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
