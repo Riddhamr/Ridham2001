@@ -1,4 +1,11 @@
-### Hi there 👋
+
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Ridham.
+</p>
+<p align='center'>For enquiries, reach out at <a href="ridhamsuvagiya2001@gmail.com">ridhamsuvagiya2001@gmail.com</a>.</p>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
 
 <!--
 **Ridham2001/Ridham2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
