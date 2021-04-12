@@ -21,3 +21,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+For action
+Set-ExecutionPolicy RemoteSigned
+Set-ExecutionPolicy Restricted
+-->
